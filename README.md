@@ -7,6 +7,8 @@ mmlab2_homework1st: MMPOSE &amp; MMDETECTION
 # _3* are the test of my own ear(picture and vedio)
 
 ## 单帧如下：
+https://github.com/git-yuliang/mmlab2_homework1st/blob/main/my_ear_results/4061685957584.jpg
+
 ![image](https://github.com/git-yuliang/mmlab2_homework1st/blob/main/my_ear_results/4061685957584.jpg)
 
 ## 视频如下：
