@@ -10,4 +10,4 @@ mmlab2_homework1st: MMPOSE &amp; MMDETECTION
 ![image](https://github.com/git-yuliang/mmlab2_homework1st/blob/main/my_ear_results/4061685957584.jpg)
 
 ## 视频如下：
-https://github.com/git-yuliang/mmlab2_homework1st/blob/main/my_ear_results/405_1685957583.mp4
+https://github.com/git-yuliang/mmlab2_homework1st/my_ear_results/405_1685957583.mp4
